@@ -14,8 +14,8 @@ A simple REST API built with Node.js and Express that provides basic information
 
 1. Clone the repository:
    \\\`bash
-   git clone https://github.com/BenAgada/hngTask.git
-   cd (https://github.com/BenAgada/hngTask.git)
+   git clone https://github.com/BenAgada/hng-task-0.git
+   cd (https://github.com/BenAgada/hng-tas-0.git)
    \\\`
 
 2. Install dependencies:
@@ -50,7 +50,7 @@ The API will be available at \http://localhost:3000\
 {
 "email": "agadaakogwubenedict@gmail.com,
 "current_datetime": "",
-"github_url": "https://github.com/BenAgada/hngTask.git"
+"github_url": "https://github.com/BenAgada/hng-task-0.git"
 }
 \\\`
 
